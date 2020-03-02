@@ -1,0 +1,5 @@
+navbar
+informatii
+3 poze pe care at cand apas se deschide un modal
+informatii
+footer
